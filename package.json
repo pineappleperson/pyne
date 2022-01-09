@@ -1,0 +1,18 @@
+{
+  "name": "layer0-gridsome-example",
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "layer0:deploy": "layer0 deploy"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "@layer0/cli": "^4.6.0",
+    "@layer0/core": "^4.6.0",
+    "@layer0/devtools": "^4.6.0",
+    "@layer0/prefetch": "^4.6.0"
+  }
+}
